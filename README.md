@@ -1,6 +1,6 @@
 # 🎮 Unity Shader Showcase
 
-A collection of custom shaders and visual effects built in Unity, demonstrating various rendering techniques from lighting models to post-processing effects.
+A collection of custom shaders and visual effects built in Unity, demonstrating various rendering techniques.
 
 ---
 
