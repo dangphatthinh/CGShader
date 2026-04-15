@@ -33,8 +33,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Amp: 0.18
-    - _Freq: 0.26
+    - _Amp: 0.15
+    - _Freq: 0.67
     - _ScrollX: 0.1
     - _ScrollY: 0
     - _Speed: 0
